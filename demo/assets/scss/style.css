@@ -15328,3 +15328,11 @@ a.card {
 .rtl ol, .rtl ul {
   padding-right: 0;
 }/*# sourceMappingURL=style.css.map */
+
+.field-icon {
+  float: right;
+  margin-right: 15px;
+  margin-top: -27px;
+  position: relative;
+  z-index: 2;
+}
