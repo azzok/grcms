@@ -15336,3 +15336,19 @@ a.card {
   position: relative;
   z-index: 2;
 }
+
+.mic-icon {
+  float: right;
+  margin-right: 1rem;
+  margin-top: 8rem;
+  position: relative;
+  z-index: 2;
+}
+
+.voice-input{
+  height: 150px;
+  /* letter-spacing: 2px; */
+  /* line-break: auto; */
+  word-wrap: break-word;
+  overflow: hidden; 
+}
